@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**vergoraf/vergoraf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Felipe, I am from Chile and I'm Geographer with natural resource interest.
 
-Here are some ideas to get you started:
+* Currently I work as Lecturer at the Humboldt Universität zu Berlin, in the course: Geographic Information Systems and Landscape Analysis of the 
+Master programm **Integrated Natural Resource Management**.
+* I have a [youtube channel](https://www.youtube.com/channel/UCqKFNXK6o9nP2fe5KG1UO_g) about Qgis application and tipps.
+* I offer GIS consulting in Spanish, English and German. If you are interest contact me below.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+* Critical thinking, decision-making and problem solving skills
+* Gis expert in Qgis and ArcGIS
+* High level knowledge of R and SPSS
+* High level of scientific organisation software such as Citavi or Mendelev
+
+
+## Contact
+
+Find my resume in [Linkedin](https://www.linkedin.com/in/felipe-vergara-50914a60/)
