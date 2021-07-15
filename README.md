@@ -13,6 +13,7 @@ Master programm **Integrated Natural Resource Management**.
 * Gis expert in Qgis and ArcGIS
 * High level knowledge of R and SPSS
 * High level of scientific organisation software such as Citavi or Mendelev
+* Basic knowledge of Python
 
 
 ## Contact
